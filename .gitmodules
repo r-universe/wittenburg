@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "hscovar"]
 	path = hscovar
 	url = https://github.com/cran/hscovar
-	shallow = true
-	registered = true
 [submodule "hsrecombi"]
 	path = hsrecombi
 	url = https://github.com/cran/hsrecombi
-	shallow = true
-	registered = true
